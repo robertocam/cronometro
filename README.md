@@ -4,8 +4,8 @@ Counter with Javascript is a timer that starts when the page loads. It can be us
 
 ## Stopwatch in progress
 
-![](https://github.com/robertocam/animatedTextOpeningMiddle/blob/main/images/stopwatch%in%progress.png)
+![](https://github.com/robertocam/cronometro/blob/main/images/stopwatch%20in%20progress.png)
 
 ## Stopwatch finished
 
-![](https://github.com/robertocam/animatedTextOpeningMiddle/blob/main/images/Stopwatch%finished.png)
+![](https://github.com/robertocam/cronometro/blob/main/images/stopwatch%20finished.png)
